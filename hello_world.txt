@@ -1,7 +1,7 @@
 Common git commands:
 
 git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
-git add hello_world.txt   ... to create new files once in a repository
+git add hello_world.txt   ... to add files to the staging area
 git code .          ... opens up current repository with files in vscode 
 git commit -m "Message describing changes made or how this snapchot is different"
 git push (specifically, git push origin main) ... to upload commits to github
